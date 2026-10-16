@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="chat_height">80dp</dimen>
+    <dimen name="chat_avatar_size">57dp</dimen>
+    <dimen name="chat_divider_height">0.35dp</dimen>
+    <dimen name="chat_text_inset">73dp</dimen>
+    <dimen name="swipe_icon_size">27dp</dimen>
+    <dimen name="swipe_action_width">84dp</dimen>
+    <dimen name="swipe_label_size">13sp</dimen>
+    <dimen name="swipe_label_gap">9dp</dimen>
+    <dimen name="swipe_corner_radius">10dp</dimen>
+</resources>

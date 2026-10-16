@@ -1,0 +1,8 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mention Badge">
+<circle id="Background" cx="12" cy="12" r="12" fill="#3D95D4"/>
+<g id="Mention Icon">
+<path id="Vector" d="M14.6038 12C14.6038 13.438 13.438 14.6038 12 14.6038C10.562 14.6038 9.39623 13.438 9.39623 12C9.39623 10.562 10.562 9.39623 12 9.39623C13.438 9.39623 14.6038 10.562 14.6038 12ZM14.6038 12C14.6038 13.438 14.9434 14.717 16.3019 14.717C17.6604 14.717 18 12.9057 18 12C18 8.68629 15.3137 6 12 6C8.68629 6 6 8.68629 6 12C6 15.3137 8.68629 18 12 18H14.2642" stroke="white" stroke-linecap="round"/>
+</g>
+</g>
+</svg>

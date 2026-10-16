@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string name="delete_chat">Delete</string>
+    <string name="telegram">Telegram</string>
+    <string name="typing">typing</string>
+    <string name="verified">Verified</string>
+    <string name="muted">Muted</string>
+    <string name="secret_chat">Secret chat</string>
+    <string name="scam">SCAM</string>
+    <plurals name="unread_messages">
+        <item quantity="one">%1$d unread message</item>
+        <item quantity="other">%1$d unread messages</item>
+    </plurals>
+    <string name="mentioned">You were mentioned</string>
+    <string name="voice_chat">Voice chat active</string>
+    <string name="pinned">Pinned</string>
+    <string name="sent">Sent</string>
+    <string name="read">Read</string>
 </resources>
